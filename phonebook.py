@@ -1,5 +1,5 @@
 people = {
-    "Samuel": "+55 83 9 8829-2806",
+    "Samuel": "+55 83 9 8821-1709",
     "Davi": "+55 83 9 4874-8520",
     "James": "+55 83 9 7423-6549",
     "Lucas": "+55 83 9 6325-7456",
@@ -17,4 +17,5 @@ if name in people:
     print(f"Number: {people[name]}")
 
 else:
+
     print("Not Found!")
